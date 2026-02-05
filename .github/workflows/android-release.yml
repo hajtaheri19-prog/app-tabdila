@@ -19,8 +19,8 @@ jobs:
           distribution: temurin
           java-version: '17'
 
-      - name: Set up Flutter (official)
-        uses: dart-lang/setup-flutter@v1
+      - name: Set up Flutter
+        uses: flutter-actions/setup-flutter@v2
         with:
           channel: stable
 
