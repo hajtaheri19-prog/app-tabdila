@@ -1,0 +1,50 @@
+Analyzing tabdilaa...                                           
+
+   info - Missing a required trailing comma - lib\features\about\presentation\pages\about_page.dart:24:70 - require_trailing_commas
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\about\presentation\pages\about_page.dart:47:42 - deprecated_member_use
+   info - Missing a required trailing comma - lib\features\about\presentation\pages\about_page.dart:48:46 - require_trailing_commas
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\about\presentation\pages\about_page.dart:51:43 - deprecated_member_use
+   info - Missing a required trailing comma - lib\features\about\presentation\pages\about_page.dart:55:19 - require_trailing_commas
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\about\presentation\pages\about_page.dart:74:49 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\about\presentation\pages\about_page.dart:77:53 - deprecated_member_use
+   info - Missing a required trailing comma - lib\features\about\presentation\pages\about_page.dart:77:69 - require_trailing_commas
+   info - Missing a required trailing comma - lib\features\about\presentation\pages\about_page.dart:80:60 - require_trailing_commas
+   info - Use 'const' with the constructor to improve performance - lib\features\about\presentation\pages\about_page.dart:178:13 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\features\about\presentation\pages\about_page.dart:180:25 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\features\about\presentation\pages\about_page.dart:181:17 - prefer_const_constructors
+   info - Missing a required trailing comma - lib\features\about\presentation\pages\about_page.dart:182:79 - require_trailing_commas
+   info - Use 'const' with the constructor to improve performance - lib\features\about\presentation\pages\about_page.dart:184:17 - prefer_const_constructors
+   info - Missing a required trailing comma - lib\features\about\presentation\pages\about_page.dart:187:40 - require_trailing_commas
+   info - Use 'const' with the constructor to improve performance - lib\features\about\presentation\pages\about_page.dart:189:17 - prefer_const_constructors
+   info - Missing a required trailing comma - lib\features\about\presentation\pages\about_page.dart:190:75 - require_trailing_commas
+   info - Missing a required trailing comma - lib\features\about\presentation\pages\about_page.dart:201:78 - require_trailing_commas
+   info - Missing a required trailing comma - lib\features\about\presentation\pages\about_page.dart:245:79 - require_trailing_commas
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\about\presentation\pages\about_page.dart:272:40 - deprecated_member_use
+   info - Missing a required trailing comma - lib\features\about\presentation\pages\about_page.dart:273:43 - require_trailing_commas
+   info - Missing a required trailing comma - lib\features\about\presentation\pages\about_page.dart:299:68 - require_trailing_commas
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\about\presentation\pages\about_page.dart:309:26 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\games\presentation\pages\games_page.dart:18:42 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\games\presentation\pages\games_page.dart:255:48 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\games\presentation\pages\games_page.dart:258:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\games\presentation\pages\games_page.dart:306:31 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\games\presentation\pages\games_page.dart:308:50 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\games\presentation\pages\games_page.dart:315:37 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\home\presentation\pages\home_page.dart:122:63 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\home\presentation\pages\home_page.dart:125:48 - deprecated_member_use
+   info - Missing a required trailing comma - lib\features\home\presentation\pages\home_page.dart:125:76 - require_trailing_commas
+   info - Missing a required trailing comma - lib\features\home\presentation\pages\home_page.dart:129:14 - require_trailing_commas
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\home\presentation\pages\home_page.dart:150:42 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\home\presentation\pages\home_page.dart:185:52 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\home\presentation\pages\home_page.dart:187:58 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\home\presentation\pages\home_page.dart:200:48 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\home\presentation\pages\home_page.dart:247:35 - deprecated_member_use
+   info - Missing a required trailing comma - lib\features\home\presentation\pages\home_page.dart:254:340 - require_trailing_commas
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\home\presentation\pages\home_page.dart:268:45 - deprecated_member_use
+   info - Missing a required trailing comma - lib\features\home\presentation\pages\home_page.dart:275:19 - require_trailing_commas
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\home\presentation\pages\home_page.dart:287:45 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\home\presentation\pages\home_page.dart:307:58 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\home\presentation\pages\home_page.dart:310:62 - deprecated_member_use
+   info - Missing a required trailing comma - lib\features\home\presentation\pages\home_page.dart:319:45 - require_trailing_commas
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\home\presentation\pages\home_page.dart:383:44 - deprecated_member_use
+   info - Missing a required trailing comma - lib\features\home\presentation\pages\home_page.dart:438:60 - require_trailing_commas
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\home\presentation\pages\home_page.dart:476:48 - deprecated_member_use

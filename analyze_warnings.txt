@@ -1,0 +1,35 @@
+
+warning - The value of the 
+field '_progress' isn't 
+used - lib\features\splash\p
+resentation\pages\splash_pag
+e.dart:18:10 - unused_field
+warning - The value of the 
+field '_isProcessingFile' 
+isn't used - lib\features\to
+ols\presentation\pages\base6
+4_converter_page.dart:27:8 
+- unused_field
+warning - The '!' will have 
+no effect because the 
+receiver can't be null - lib
+\features\tools\presentation
+\pages\invoice_maker_page.da
+rt:225:37 - unnecessary_non_
+null_assertion
+warning - The '!' will have 
+no effect because the 
+receiver can't be null - lib
+\features\tools\presentation
+\pages\invoice_maker_page.da
+rt:252:37 - unnecessary_non_
+null_assertion
+warning - The '!' will have 
+no effect because the 
+receiver can't be null - lib
+\features\tools\presentation
+\pages\invoice_maker_page.da
+rt:262:70 - unnecessary_non_
+null_assertion
+
+
