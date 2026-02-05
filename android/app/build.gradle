@@ -5,20 +5,31 @@ plugins {
 }
 
 android {
-    namespace "com.example.tabdila"
+    namespace "com.example.tabdilaa"
     compileSdkVersion flutter.compileSdkVersion
 
     defaultConfig {
-        applicationId "com.example.tabdila"
+        applicationId "com.example.tabdilaa"
         minSdkVersion flutter.minSdkVersion
         targetSdkVersion flutter.targetSdkVersion
         versionCode flutter.versionCode
         versionName flutter.versionName
     }
 
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+
+    kotlinOptions {
+        jvmTarget = "17"
+    }
+
     buildTypes {
         release {
             signingConfig signingConfigs.debug
+            minifyEnabled false
+            shrinkResources false
         }
     }
 }
