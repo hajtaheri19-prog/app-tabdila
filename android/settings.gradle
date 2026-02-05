@@ -22,7 +22,7 @@ pluginManagement {
 }
 
 dependencyResolutionManagement {
-    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    // ✅ اجازه بده Flutter plugin repo خودش را اضافه کند
     repositories {
         google()
         mavenCentral()
