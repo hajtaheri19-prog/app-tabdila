@@ -1,33 +1,25 @@
 pluginManagement {
+    def flutterSdkPath = {
+        def properties = new Properties()
+        file("local.properties").withInputStream { properties.load(it) }
+        return properties.getProperty("flutter.sdk")
+    }()
+
+    includeBuild("$flutterSdkPath/packages/flutter_tools/gradle")
+
     repositories {
         google()
         mavenCentral()
         gradlePluginPortal()
     }
-
-    def flutterSdkPath = {
-        def properties = new Properties()
-        def localPropertiesFile = file("local.properties")
-        if (localPropertiesFile.exists()) {
-            localPropertiesFile.withInputStream { properties.load(it) }
-        }
-        return properties.getProperty("flutter.sdk")
-    }()
-
-    if (flutterSdkPath == null) {
-        throw new GradleException("flutter.sdk not set in local.properties")
-    }
-
-    includeBuild("$flutterSdkPath/packages/flutter_tools/gradle")
 }
 
 dependencyResolutionManagement {
-    // ✅ اجازه بده Flutter plugin repo خودش را اضافه کند
     repositories {
         google()
         mavenCentral()
     }
 }
 
-rootProject.name = "tabdila"
+rootProject.name = "tabdilaa"
 include(":app")
